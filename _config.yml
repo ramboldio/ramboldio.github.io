@@ -25,6 +25,9 @@ github_username:  ramboldio
 # Build settings
 markdown: kramdown
 theme: test
+
+sass:
+    style: compressed
 gems:
   - jekyll-feed
 exclude:
