@@ -24,12 +24,13 @@ github_username:  ramboldio
 
 # Build settings
 markdown: kramdown
-theme: test
+remote_theme: ramboldio/visual-display
 
 sass:
     style: compressed
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
