@@ -28,8 +28,7 @@ theme: test
 
 sass:
     style: compressed
-    sass_dir: ./_sass
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
