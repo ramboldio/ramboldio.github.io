@@ -1,0 +1,24 @@
+body {
+	font-size: 18px;
+	display: flex;
+	line-height: 1.1;
+    justify-content: center;
+	font-family: 'Ubuntu Mono', monospace;
+}
+h1 {
+	font-family: 'IBM Plex Serif', serif;
+	font-wieght: bold;
+}
+
+.wrapper {
+	display: flex;
+	max-width: 40em;
+}
+
+.left-col {
+	flex: 2;
+}
+
+.right-col {
+	flex: 1;
+}
