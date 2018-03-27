@@ -1,24 +1,69 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
 body {
 	font-size: 18px;
-	display: flex;
-	line-height: 1.1;
-    justify-content: center;
+	line-height: 1.15;
 	font-family: 'Ubuntu Mono', monospace;
+	display: flex;
+    justify-content: center;
 }
 h1 {
 	font-family: 'IBM Plex Serif', serif;
-	font-wieght: bold;
+	font-weight: bold;
+    font-size: 2em;
+    margin: 0.67em 0;
 }
 
+p {
+	text-indent: 1.15em;
+	margin: 1em 0;
+}
+
+.content {
+	margin: 1em;
+	display: block;
+}
 .wrapper {
 	display: flex;
-	max-width: 40em;
+	max-width: 50em;
 }
 
 .left-col {
 	flex: 2;
+	margin-right: 0.5em;
+}
+
+.left-col p:first-child {
+	margin-top: 0;
 }
 
 .right-col {
 	flex: 1;
+	margin-left: 0.5em;
+}
+
+@media screen and (max-device-width: 799px){
+	.right-col {
+		display: none;
+	}
 }
