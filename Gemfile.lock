@@ -1,3 +1,9 @@
+PATH
+  remote: test
+  specs:
+    test (0.1.0)
+      jekyll (~> 3.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -239,6 +245,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  test!
   tzinfo-data
 
 RUBY VERSION
