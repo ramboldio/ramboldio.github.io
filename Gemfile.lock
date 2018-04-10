@@ -1,7 +1,7 @@
 PATH
-  remote: test
+  remote: ../visual-display
   specs:
-    test (0.1.0)
+    visual-display (0.1.0)
       jekyll (~> 3.4)
 
 GEM
@@ -245,8 +245,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  test!
   tzinfo-data
+  visual-display!
 
 RUBY VERSION
    ruby 2.3.3p222
