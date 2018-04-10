@@ -3,7 +3,9 @@ layout: default
 ---
 {{ content }}
 
-{% for post in site.posts %}	
+{% for post in site.posts %}
+<div class="blog entry">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small>
+    <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+</div>
 {% endfor %}
