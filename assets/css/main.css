@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: 'assets/fonts/IBMPlexSerif-Regular-Latin1.woff2';
+  font-weight: 400;
+}
+
 body {
 	font-size: 18px;
 	line-height: 1.15;
