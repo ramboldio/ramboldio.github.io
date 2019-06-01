@@ -1,19 +1,17 @@
 body {
 	font-size: 18px;
 	line-height: 1.15;
-	font-family: 'Ubuntu Mono', monospace;
+	font-family: 'IBM Plex Serif', serif;
 	display: flex;
     justify-content: center;
 	text-decoration-skip-ink: auto;
 }
 h1 {
-	font-family: 'IBM Plex Serif', serif;
 	font-weight: bold;
     font-size: 2em;
     margin: 0.67em 0;
 }
 h2 {
-	font-family: 'IBM Plex Serif', serif;
 	font-weight: bold;
     font-size: 1.3em;
     margin: 0.67em 0;
