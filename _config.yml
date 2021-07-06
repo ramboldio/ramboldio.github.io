@@ -34,9 +34,7 @@ sass:
     style: compressed
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-webmention_io
 exclude:
   - Gemfile
   - Gemfile.lock
