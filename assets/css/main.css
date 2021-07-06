@@ -1,58 +1,11 @@
-@font-face {
-  font-family: 'IBM Plex Serif';
-  src: 'assets/fonts/IBMPlexSerif-Regular-Latin1.woff2';
-  font-weight: 400;
-}
-
 body {
-	font-size: 18px;
-	line-height: 1.15;
-	font-family: 'IBM Plex Serif', serif;
-	display: flex;
-    justify-content: center;
-	text-decoration-skip-ink: auto;
-}
-h1 {
-	font-weight: bold;
-    font-size: 2em;
-    margin: 0.67em 0;
-}
-h2 {
-	font-weight: bold;
-    font-size: 1.3em;
-    margin: 0.67em 0;
+	font-family: 'Arial', sans-serif;
+	background: #fff;
+	color: #333;
 }
 
-p {
-	text-indent: 1.15em;
-	margin: 1em 0;
-}
-
-.content {
-	margin: 1em;
-	display: block;
-}
-.wrapper {
-	display: flex;
-	max-width: 50em;
-}
-
-.left-col {
-	flex: 2;
-	margin-right: 0.5em;
-}
-
-.left-col p:first-child {
-	margin-top: 0;
-}
-
-.right-col {
-	flex: 1;
-	margin-left: 0.5em;
-}
-
-.blog.entry h3, .blog.entry span.date {
-	display: inline;
+.sidenote-number:after, .sidenote:before {
+	font-family: 'Arial', sans-serif;
 }
 
 span.date {
@@ -61,8 +14,12 @@ span.date {
 	font-style: italic;
 }
 
-@media screen and (max-device-width: 799px){
-	.right-col {
-		display: none;
-	}
+.portfolio-item {
+	margin: 10px 0;
+}
+.portfolio-item h3 {
+	margin-top: 3px;
+}
+.portfolio-item img {
+	/*margin-right: 10px;*/
 }
