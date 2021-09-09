@@ -3,10 +3,12 @@ title: lukas rambold
 permalink: /
 layout: home
 ---
+![](/assets/profile.jpg)
 
-# lukas rambold
 
-👋 Hi, I'm Lukas.
+# lukas rambold ✌️
+
+Hi, I'm Lukas.
 Currently, I'm a master student of IT System Engineering at [HPI](https://hpi.de) in Berlin, focusing on HCI & Personal Fabrication.
 
 Previously, I studied at [LMU](https://www.lmu.de) & [CDTM](https://cdtm.de) and co-founded the government data-analytics startup [Polyteia](https://polyteia.com).

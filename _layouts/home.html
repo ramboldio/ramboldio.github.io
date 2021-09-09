@@ -12,10 +12,12 @@ layout: default
 		{% for portfolio_item in sorted_portfolio %}
 		<section class="portfolio-item">
 			<span>{{ portfolio_item.authors }}</span>
-			<h3>{{ portfolio_item.title }}</h3>
-			<figure class="maincolumn">
-				<img src="{{ portfolio_item.image }}" width="100%" height="200px">
-			</figure>
+			<h3 class="yo">{{ portfolio_item.title }}</h3>
+			<div class="sidenote" for="yo">
+				<figure>
+					<img src="{{ portfolio_item.image }}" height="200px">
+				</figure>
+			</div> 
 			<p>{{ portfolio_item.content }}</p>
 			<div style="clear: both;"></div>
 		</section>
