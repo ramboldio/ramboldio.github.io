@@ -8,15 +8,7 @@ body {
 	font-family: 'Arial', sans-serif;
 }
 
-span.date {
-	float: right;
-	color: #999;
-	font-style: italic;
-}
 
-.portfolio-item {
-	margin: 10px 0;
-}
 .portfolio-item h3 {
 	margin-top: 3px;
 }
