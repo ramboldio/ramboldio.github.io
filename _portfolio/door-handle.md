@@ -1,6 +1,7 @@
 ---
 authors: "supevisors: Christian Tietz, Eric Klieme"
 title: "Under Pressure: Behavioral Authentication on Door Handles"
+image: assets/doorhandle.png
 year: 2020
 ---
 

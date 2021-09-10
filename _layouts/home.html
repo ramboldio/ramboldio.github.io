@@ -12,13 +12,17 @@ layout: default
 		{% for portfolio_item in sorted_portfolio %}
 		<section class="portfolio-item">
 			<span>{{ portfolio_item.authors }}</span>
-			<h3 class="yo">{{ portfolio_item.title }}</h3>
-			<div class="sidenote" for="yo">
-				<figure>
-					<img src="{{ portfolio_item.image }}" height="200px">
-				</figure>
-			</div> 
-			<p>{{ portfolio_item.content }}</p>
+			<h3>{{ portfolio_item.title }}</h3>
+			<p>
+				<!--
+				<input type="checkbox" id="mn-figure-1" class="margin-toggle">
+				<label for="mn-figure-1" class="margin-toggle">⊕</label>
+				--!>
+				<span class="marginnote">
+					<img src="{{ portfolio_item.image }}" height=200 width=200>
+				</span>
+				{{ portfolio_item.content }}
+			</p>
 			<div style="clear: both;"></div>
 		</section>
 		{% endfor %}

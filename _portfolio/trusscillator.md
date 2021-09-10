@@ -1,6 +1,7 @@
 ---
 authors: "supervisor: Robert Kovacs"
 title: "System for Designing and Fabricating Dynamic Structures"
+image: assets/trusscillator.png
 year: 2021
 ---
 

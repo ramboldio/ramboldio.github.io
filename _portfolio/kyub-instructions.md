@@ -1,6 +1,7 @@
 ---
 authors: "supervisor: Patrick Baudisch"
 title: "Assembly Instruction Generation for Laser Cut Models"
+image: assets/instruction_booklet.png
 year: 2019
 ---
 
