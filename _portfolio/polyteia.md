@@ -1,5 +1,5 @@
 ---
-authors: "startup as Co-Founder / Lead Architect"
+authors: "startup as technical Co-Founder"
 title: "Polyteia: Enabling Data-Driven Decision Making in Municipalities"
 year: 2019
 image: "assets/portfolio-polyteia.png"
