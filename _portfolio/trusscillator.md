@@ -10,4 +10,4 @@ I am responsible for the underlying simulation that is relying on differential e
 
 *[Video](https://www.youtube.com/watch?v=urW4iWfA-nQ&feature=youtu.be)*
 
-*[Full Paper](https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474807) at UIST 2021 (🏆Best Demo Honorable Mention)*
+*[Full Paper](https://dl.acm.org/doi/fullHtml/10.1145/3472749.3474807) at UIST 2021 (🏆 Best Demo Honorable Mention)*
