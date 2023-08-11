@@ -4,8 +4,6 @@
   "description": "Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!",
   "main": "index.js",
   "dependencies": {
-    "@ibm/plex": "^5.1.3",
-    "instant.page": "^5.1.0",
     "three": "^0.124.0",
     "tufte-css": "^1.7.2"
   },
