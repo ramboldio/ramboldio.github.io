@@ -11,8 +11,8 @@ layout: default
 		{% assign sorted_portfolio = site.portfolio | sort: 'year' | reverse %}
 		{% for portfolio_item in sorted_portfolio %}
 		<section class="portfolio-item">
-			<span>{{ portfolio_item.authors || markdownify }}</span>
-			<h3>{{ portfolio_item.title || markdownify }}</h3>
+			<span>{{ portfolio_item.authors || markdownify | remove: '<p>' | remove: '</p>' }}</span>
+			<h3>{{ portfolio_item.title }}</h3>
 			<p>
 				<!--
 				<input type="checkbox" id="mn-figure-1" class="margin-toggle">
@@ -21,7 +21,7 @@ layout: default
 				<span class="marginnote">
 					<img src="{{ portfolio_item.image }}" height=200 width=200>
 				</span>
-				{{ portfolio_item.content || markdownify }}
+				{{ portfolio_item.content }}
 			</p>
 			<div style="clear: both;"></div>
 		</section>

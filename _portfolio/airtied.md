@@ -1,6 +1,6 @@
 ---
 authors: "Lukas Rambold, Robert Kovacs,Conrad Lempert, Muhammad Abdullah, Helena Lendowski, Lukas Fritzsche, Martin Taraz, and Patrick Baudisch"
-title: "AirTied: Automatic Personal Fabrication of Truss Structures"
+title: "[AirTied: Automatic Personal Fabrication of Truss Structures](https://hpi.de/baudisch/projects/airtied.html)"
 image: assets/airtied.png
 year: 2023
 ---
