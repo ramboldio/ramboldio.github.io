@@ -20,7 +20,7 @@ layout: default
 				<span class="marginnote">
 					<img src="{{ portfolio_item.image }}" height=200 width=200>
 				</span>
-				{{ portfolio_item.content }}
+				{{ portfolio_item.content || markdownify}}
 			</p>
 			<div style="clear: both;"></div>
 		</section>
