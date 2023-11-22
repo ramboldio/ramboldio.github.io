@@ -1,5 +1,5 @@
 ---
-authors: "Christian Tietz, Eric Klieme, Rachel Brabender, Teresa Lasarow, Lukas Rambold, Christoph Meinel"
+authors: "Christian Tietz, Eric Klieme, Rachel Brabender, Teresa Lasarow, **Lukas Rambold**, Christoph Meinel"
 title: "Under Pressure: Behavioral Authentication on Door Handles"
 image: assets/doorhandle.png
 year: 2020

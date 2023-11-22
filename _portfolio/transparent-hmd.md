@@ -1,5 +1,5 @@
 ---
-authors: "Christian Mai, Lukas Rambold, Mohamed Khamis"
+authors: "Christian Mai, **Lukas Rambold**, Mohamed Khamis"
 title: "TransparentHMD: Overcoming the Communication Barrier of HMDs"
 image: "assets/transparenthmd.png"
 year: 2017
