@@ -8,9 +8,8 @@ layout: home
 
 # lukas rambold ✌️
 
-Hi, I'm Lukas.
-I'm a PhD student at the [Baudisch HCI group at Hasso-Plattner-Institute](https://hpi.de/baudisch/home.html) in Berlin, working on architecure-scale digital fabrication.
+hey, i'm a phd student at the [hci group at hasso-plattner-institute](https://hpi.de/baudisch/home.html) in berlin, working on architecure-scale digital fabrication.
 
-Previously, I studied at [LMU](http://www.medien.ifi.lmu.de/) & [CDTM](https://cdtm.de) and co-founded the government data-analytics startup [Polyteia](https://www.crunchbase.com/organization/polyteia).
+previously, I studied at [lmu](http://www.medien.ifi.lmu.de/) & [cdtm](https://cdtm.de) and co-founded the government data-analytics startup [polyteia](https://www.crunchbase.com/organization/polyteia).
 
-[Mail](mailto:lukas@rambold.de) · [Google Scholar](https://scholar.google.de/citations?user=PrYIn3MAAAAJ) · [Instagram](https://instagram.com/ramboldio).
+[mail](mailto:lukas@rambold.de) · [google scholar](https://scholar.google.de/citations?user=PrYIn3MAAAAJ) · [instagram](https://instagram.com/ramboldio)

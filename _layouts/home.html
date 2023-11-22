@@ -7,7 +7,6 @@ layout: default
 	</section>
 	
 	<section class="portfolio">
-		<h2>Research</h2>
 		{% assign sorted_portfolio = site.portfolio | sort: 'year' | reverse %}
 		{% for portfolio_item in sorted_portfolio %}
 		<section class="portfolio-item">
