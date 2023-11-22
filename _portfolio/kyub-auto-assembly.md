@@ -1,5 +1,5 @@
 ---
-authors: "supervisor: Thijs Roumen"
+authors: "Thijs Roumen, Conrad Lempert, Ingo Apel, Erik Brendel, Markus Brand, Laurenz Seidel, Lukas Rambold, and Patrick Baudisch"
 title: "Automatic Assembly of 2D SVG Plates to 3D Models"
 image: assets/auto_assembly.png
 year: 2020

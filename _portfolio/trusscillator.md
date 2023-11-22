@@ -1,5 +1,5 @@
 ---
-authors: "supervisor: Robert Kovacs"
+authors: "Robert Kovacs, **Lukas Rambold**, Lukas Fritzsche, Dominik Meier, Jotaro Shigeyama, Shohei Katakura, Ran Zhang, Patrick Baudisch"
 title: "Trusscillator: System for Designing and Fabricating Dynamic Structures"
 image: assets/trusscillator.png
 year: 2021
