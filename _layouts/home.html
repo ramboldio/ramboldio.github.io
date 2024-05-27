@@ -6,7 +6,6 @@ layout: default
 		{{ content }}
 	</section>
 	<section class="portfolio">
-		<h1>selected publications</h1>
 		{% assign sorted_portfolio = site.portfolio | sort: 'year' | reverse %}
 		{% for portfolio_item in sorted_portfolio %}
 		<section class="portfolio-item">
@@ -28,8 +27,8 @@ layout: default
 	</section>
 				
 	<section class="service">
-		<h1>reviewing</h1>
-		<p>Comitee Member: [MuC 2024](https://muc2024.mensch-und-computer.de/), [CHI 2024 LBW](https://chi2024.acm.org/for-authors/late-breaking-work/)</p>
+		<h2>reviewing</h2>
+		<p>Comitee Member: <a href="https://muc2024.mensch-und-computer.de/">MuC 2024</a>, <a href="https://chi2024.acm.org/for-authors/late-breaking-work/">CHI 2024 LBW</a></p>
 		<p>Reviewer: Nature Communications (in 2023), TEI 2024, UIST 2024, CHI 2023, IEEE VR 2023, TEI Work in Progress (2023, 2022)</p>
 	</section>
 </article>
